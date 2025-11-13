@@ -47,3 +47,5 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ---
 
 **Status:** In Development
+
+The compiler does not yet accept file paths as command-line arguments. For development purposes, it is currently hardcoded to compile the main.kin file located in the project's root directory.
